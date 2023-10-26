@@ -1,2 +1,0 @@
-# shirido
-shirido
